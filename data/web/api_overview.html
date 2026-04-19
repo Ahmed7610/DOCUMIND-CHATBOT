@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>DocuPilot API Overview</title>
+</head>
+<body>
+  <h1>API Overview</h1>
+
+  <section>
+    <h2>Why API Integration Matters</h2>
+    <p>Some user questions cannot be answered from documents alone. These cases require live data from tools or APIs.</p>
+  </section>
+
+  <section>
+    <h2>Supported Agent Use Cases</h2>
+    <ul>
+      <li>Checking subscription status</li>
+      <li>Tracking support ticket status</li>
+      <li>Retrieving order or account-specific data</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Document Questions vs Live Questions</h2>
+    <p>Questions about policies, setup steps, plan features, and documented workflows should be answered from indexed content.</p>
+    <p>Questions about live user status or account-specific information should be answered using connected APIs or simulated tools.</p>
+  </section>
+
+  <section>
+    <h2>Example Tools</h2>
+    <ul>
+      <li><code>get_subscription_status(user_id)</code></li>
+      <li><code>get_ticket_status(ticket_id)</code></li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Expected Agent Behavior</h2>
+    <p>The assistant should decide whether a user question requires retrieval from documents or a call to a live tool.</p>
+  </section>
+</body>
+</html>
