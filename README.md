@@ -80,12 +80,6 @@ Unlike traditional chatbots, DocuMind AI:
 
 ---
 
-## 🔍 Source Highlighting
-
-![Highlights](assets/highlights.png)
-
----
-
 ## ⚠️ Unknown Handling
 
 ![Unknown](assets/unknown.png)
