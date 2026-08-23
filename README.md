@@ -220,38 +220,7 @@ python -m app.main
 * ❓ FAQ Systems
 * 📚 Document Search Engines
 
----
 
-## 🔮 Future Enhancements
-
-* 🧠 Conversation Memory
-* 📊 Analytics Dashboard
-* 🛠️ Admin Panel
-* 🤖 AI Agent Integration
-
----
-
-## 🎥 Demo (Recommended)
-
-📌 Add a demo video here after recording
-Example:
-
-```
-[Watch Demo](demo/demo.mp4)
-```
-
----
-
-## ⭐ Why This Project Matters
-
-This project demonstrates:
-
-✔️ Real-world AI system design
-✔️ RAG pipeline implementation
-✔️ Focus on reliability & trust
-✔️ Production-ready architecture
-
----
 
 ## 📄 License
 
