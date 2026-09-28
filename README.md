@@ -195,7 +195,7 @@ This information is not found in the documents.
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/documind-ai.git
+git clone https://github.com/Ahmed7610/documind-ai.git
 cd documind-ai
 ```
 
